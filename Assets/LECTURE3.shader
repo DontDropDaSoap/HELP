@@ -7,13 +7,6 @@ Shader "Unlit/LECTURE3"
         //dropdown to pick which UV set the base map uses
         [KeywordEnum(UV0, UV1)] _UVSET ("UV Set", Float) = 0
         
-
-        // _EnvCube ("Reflection Cubemap", Cube) = ""{}
-        // _EnvIntensity("Reflection Intensity", Range(0,2)) = 1.0
-        // _EnvBlend ("Reflection Blend (0=Base, 1=Env)", Range(0,1)) = 1.0
-        // _FresnelPow ("Fresnel Power", Range(0.1, 8)) = 5.0
-        // _FresnelBoost("Fresnel Boost", Range(0, 2)) = 1.0
-
         _RimColor ("Rim Color", Color) = (1, 1, 1, 1)
         _RimPower ("Rim Power", Range(0.5, 8)) = 3
         _RimStrength ("Rim Strength", Range(0,1)) = 0.5
