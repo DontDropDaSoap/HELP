@@ -1,4 +1,4 @@
-Shader "Custom/DIFFUSE_AMBIENT"
+Shader "Custom/PHONG"
 {
     Properties
     {

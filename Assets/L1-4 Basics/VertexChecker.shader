@@ -1,4 +1,4 @@
-Shader "Custom/LECTURE3SECOND"
+Shader "Custom/VertexChecker"
 {
     Properties
     {
