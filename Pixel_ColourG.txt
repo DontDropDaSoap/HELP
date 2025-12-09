@@ -1,0 +1,13 @@
+For Pixelation:
+1. Go to PC_Renderer.asset
+2. Add Fullscreen Pass Renderer Feauture
+3. Add pixelation shader material
+
+For Colour Grading:
+1. Make LUT texture(s)
+2. Add Global Volume to Scene
+3. Select Renderer (SampleSceneProfile)
+4. Add LUT to Color Lookup Texture
+
+HOLOGRAM REFERENCE LINK: https://www.codinblack.com/shader-graph-tutorials-hologram-shader/
+
